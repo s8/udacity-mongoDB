@@ -25,10 +25,30 @@ def parse_file(datafile):
     # YOUR CODE HERE
     # Remember that you can use xlrd.xldate_as_tuple(sometime, 0) to convert
     # Excel date to Python tuple of (year, month, day, hour, minute, second)
+
+    stations = [s.value for s in sheet.row(0)[1:-1]]    
+    times  = [xlrd.xldate_as_tuple(t.value,0) for t in sheet.col(0)[1:]]
+    loads = [[t.value for t in sheet.col(c)[1:]] for c in range(sheet.ncols)[1:]]
+
+    data = {}
+
+    for i, s in enumerate(stations):
+        load = max(loads[i])
+        load_i = loads[i].index(load)
+        time = times[load_i]
+
+        data[s] = {
+            'Max Load' : load,
+            'Year' : time[0],
+            'Month' : time[1],
+            'Day' : time[2],
+            'Hour' : time[3]    }
+
     return data
 
 def save_file(data, filename):
     # YOUR CODE HERE
+    print ('something')
 
     
 def test():
