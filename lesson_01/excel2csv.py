@@ -54,6 +54,9 @@ def save_file(data, filename):
 
     with open(filename, 'wt', encoding='ascii') as f:
         csvwriter = csv.writer(f, delimiter='|')
+        # write the header line
+        csvwriter.writerow(['Station','Year','Month','Day','Hour','Max Load'])        
+        # writing data itself
         for i, s in enumerate(stations):
             d = data[i][s]
             csvwriter.writerow([s, d['Year'],

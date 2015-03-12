@@ -40,6 +40,15 @@ def article_overview(kind, period):
     urls =[]
     # YOUR CODE HERE
 
+    with open('popular-viewed-1.json', 'r',encoding='ascii') as f:
+        data = json.loads(f.read())
+        for d in data:
+            titles.append({d["section"] : d["title"]})
+            for m in d["media"]:
+                for meta in m["media-metadata"]:
+                    if "Standard Thumbnail" in meta["format"]:
+                        urls.append(meta["url"])
+
     return (titles, urls)
 
 
@@ -49,8 +58,8 @@ def query_site(url, target, offset):
     # NYTimes returns 20 articles per request, if you want the next 20
     # You have to provide the offset parameter
     if API_KEY["popular"] == "" or API_KEY["article"] == "":
-        print "You need to register for NYTimes Developer account to run this program."
-        print "See Intructor notes for information"
+        print ("You need to register for NYTimes Developer account to run this program.")
+        print ("See Intructor notes for information")
         return False
     params = {"api-key": API_KEY[target], "offset": offset}
     r = requests.get(url, params = params)
@@ -65,10 +74,10 @@ def get_popular(url, kind, days, section="all-sections", offset=0):
     # This function will construct the query according to the requirements of the site
     # and return the data, or print an error message if called incorrectly
     if days not in [1,7,30]:
-        print "Time period can be 1,7, 30 days only"
+        print ("Time period can be 1,7, 30 days only")
         return False
     if kind not in ["viewed", "shared", "emailed"]:
-        print "kind can be only one of viewed/shared/emailed"
+        print ("kind can be only one of viewed/shared/emailed")
         return False
 
     url = URL_POPULAR + "most{0}/{1}/{2}.json".format(kind, section, days)
