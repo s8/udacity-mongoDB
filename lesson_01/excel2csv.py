@@ -30,25 +30,34 @@ def parse_file(datafile):
     times  = [xlrd.xldate_as_tuple(t.value,0) for t in sheet.col(0)[1:]]
     loads = [[t.value for t in sheet.col(c)[1:]] for c in range(sheet.ncols)[1:]]
 
-    data = {}
+    data = []
 
     for i, s in enumerate(stations):
         load = max(loads[i])
         load_i = loads[i].index(load)
         time = times[load_i]
 
-        data[s] = {
+        data.append({
+            s:{
             'Max Load' : load,
             'Year' : time[0],
             'Month' : time[1],
             'Day' : time[2],
-            'Hour' : time[3]    }
+            'Hour' : time[3]
+            }})
 
     return data
 
 def save_file(data, filename):
-    # YOUR CODE HERE
-    print ('something')
+    stations = [list(d.keys())[0] for d in data]
+    years = [list(d.keys())[0] for d in data]
+
+    with open(filename, 'wt', encoding='ascii') as f:
+        csvwriter = csv.writer(f, delimiter='|')
+        for i, s in enumerate(stations):
+            d = data[i][s]
+            csvwriter.writerow([s, d['Year'],
+                d['Month'],d['Day'],d['Hour'],d['Max Load']])
 
     
 def test():
