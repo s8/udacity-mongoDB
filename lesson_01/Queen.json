@@ -1,0 +1,651 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AQueen&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": "2011", 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Queen + Adam Lambert", 
+                    "primary": null, 
+                    "sort-name": "Queen + Adam Lambert", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": "2004", 
+                    "end-date": "2009", 
+                    "locale": null, 
+                    "name": "Queen + Paul Rodgers", 
+                    "primary": null, 
+                    "sort-name": "Queen + Paul Rodgers", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "\u5973\u738b", 
+                    "primary": null, 
+                    "sort-name": "\u5973\u738b", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "begin-area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+                "name": "London", 
+                "sort-name": "London"
+            }, 
+            "country": "GB", 
+            "disambiguation": "UK rock group", 
+            "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3", 
+            "life-span": {
+                "begin": "1970-06-27", 
+                "ended": null
+            }, 
+            "name": "Queen", 
+            "score": "100", 
+            "sort-name": "Queen", 
+            "tags": [
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "70s"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "queen family"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "90s"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "80s"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "british"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "english"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "uk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop/rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop-rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "britannique"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "queen"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "united kingdom"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "langham 1 studio bbc"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "kind of magic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "band"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "platinum"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "rock"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Queen", 
+                    "primary": null, 
+                    "sort-name": "Queen", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c", 
+                "name": "Japan", 
+                "sort-name": "Japan"
+            }, 
+            "country": "JP", 
+            "disambiguation": "\u677f\u91ce\u53cb\u7f8e", 
+            "gender": "female", 
+            "id": "420ca290-76c5-41af-999e-564d7c71f1a7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen", 
+            "score": "100", 
+            "sort-name": "Queen", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "related-akb48"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "kamen rider w"
+                }
+            ], 
+            "type": "Character"
+        }, 
+        {
+            "disambiguation": "US rapper", 
+            "id": "5eecaf18-02ec-47af-a4f2-7831db373419", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen", 
+            "score": "100", 
+            "sort-name": "Queen"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "female", 
+            "id": "b50415aa-637c-4631-b074-7debcdb36da9", 
+            "life-span": {
+                "begin": "1929-01-15", 
+                "ended": null
+            }, 
+            "name": "Queen Ida", 
+            "score": "62", 
+            "sort-name": "Queen Ida", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "id": "c7d8e75d-ce47-473e-a434-e46b316e4e2f", 
+            "life-span": {
+                "begin": "1992", 
+                "end": "1995", 
+                "ended": true
+            }, 
+            "name": "Bandit Queen", 
+            "score": "62", 
+            "sort-name": "Bandit Queen", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "787abc26-28ce-44f8-a2d1-82d86b5d28a8", 
+                "name": "Pittsburgh", 
+                "sort-name": "Pittsburgh"
+            }, 
+            "id": "92cb3785-152d-4e1b-bfd5-9572651ad762", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Nomad Queen", 
+            "score": "62", 
+            "sort-name": "Nomad Queen", 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": "2007", 
+                    "end-date": "2014-12-17", 
+                    "locale": null, 
+                    "name": "Demona Mortiss", 
+                    "primary": null, 
+                    "sort-name": "Demona Mortiss", 
+                    "type": "Artist name"
+                }
+            ], 
+            "area": {
+                "id": "96bbe327-f9cd-42e0-a689-eb9febe1693f", 
+                "name": "Hollywood", 
+                "sort-name": "Hollywood"
+            }, 
+            "disambiguation": "formerly Demona Mortiss", 
+            "id": "ec325188-c5c4-40bc-89c5-1853f3555c06", 
+            "life-span": {
+                "begin": "2007", 
+                "ended": null
+            }, 
+            "name": "Red Queen", 
+            "score": "62", 
+            "sort-name": "Red Queen", 
+            "type": "Group"
+        }, 
+        {
+            "gender": "female", 
+            "id": "917e6b65-1b9c-449a-878c-88d6ed189c39", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen Khadeeja", 
+            "score": "62", 
+            "sort-name": "Queen Khadeeja", 
+            "type": "Person"
+        }, 
+        {
+            "disambiguation": "Tobacco and Zackey Force Funk", 
+            "id": "8afa9a2f-1fe0-4bf7-b8be-c0982c5c855b", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Demon Queen", 
+            "score": "62", 
+            "sort-name": "Demon Queen", 
+            "type": "Group"
+        }, 
+        {
+            "id": "0709dcb6-f21c-48ff-83a3-84b296a4d049", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Suizide Queen", 
+            "score": "62", 
+            "sort-name": "Suizide Queen"
+        }, 
+        {
+            "id": "996dd6a5-3c68-4c86-966e-85adef5c7680", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Aline Queen", 
+            "score": "62", 
+            "sort-name": "Aline Queen"
+        }, 
+        {
+            "id": "3577817e-f484-4714-973b-e66c542979d7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Shadow Queen", 
+            "score": "62", 
+            "sort-name": "Shadow Queen"
+        }, 
+        {
+            "id": "90953c00-05b8-4a53-9b84-9d12d73450dd", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen Caveat", 
+            "score": "62", 
+            "sort-name": "Queen Caveat", 
+            "type": "Group"
+        }, 
+        {
+            "gender": "female", 
+            "id": "6d8857f3-50ec-4690-aaa2-a9e991157ab8", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen Bey", 
+            "score": "62", 
+            "sort-name": "Bey, Queen", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f", 
+                "name": "Milan", 
+                "sort-name": "Milan"
+            }, 
+            "begin-area": {
+                "id": "acae38b3-e987-404e-b4db-c29ad3323c70", 
+                "name": "Gorizia", 
+                "sort-name": "Gorizia"
+            }, 
+            "id": "e152cff6-4c6f-4853-a140-19a53f7e8a09", 
+            "life-span": {
+                "begin": "2013", 
+                "ended": null
+            }, 
+            "name": "Lizard Queen", 
+            "score": "62", 
+            "sort-name": "Lizard Queen", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "progressive metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "doom metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "doom"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "stoner metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "sludge"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "stoner"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "desert rock"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Dana Owens", 
+                    "primary": null, 
+                    "sort-name": "Dana Owens", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Queen Latifa", 
+                    "primary": null, 
+                    "sort-name": "Queen Latifa", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "5a2f83bb-e033-4d4b-9fea-9ca6f27cf751", 
+                "name": "Colts Neck Township", 
+                "sort-name": "Colts Neck Township"
+            }, 
+            "begin-area": {
+                "id": "85c7cd5f-6fe2-4195-a44d-69fa390bd6ec", 
+                "name": "Newark", 
+                "sort-name": "Newark"
+            }, 
+            "gender": "female", 
+            "id": "7a305f29-539a-456e-93b7-61b0e2ba3ef2", 
+            "life-span": {
+                "begin": "1970-03-18", 
+                "ended": null
+            }, 
+            "name": "Queen Latifah", 
+            "score": "62", 
+            "sort-name": "Queen Latifah", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "hip hop"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Acic Queen", 
+                    "primary": null, 
+                    "sort-name": "Acic Queen", 
+                    "type": null
+                }
+            ], 
+            "id": "8a03436b-2120-4d04-9f3b-9e18753ba8b7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Acid Queen", 
+            "score": "62", 
+            "sort-name": "Acid Queen", 
+            "type": "Group"
+        }, 
+        {
+            "gender": "female", 
+            "id": "c6303af1-d66e-4e8a-930e-fe1d6ea5b781", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen Majeeda", 
+            "score": "62", 
+            "sort-name": "Queen Majeeda", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "gender": "female", 
+            "id": "9a86679d-7661-4633-b1b0-76a69922458c", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Monica Queen", 
+            "score": "62", 
+            "sort-name": "Queen, Monica", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "country"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "id": "8d25fda6-e74e-45ac-9695-7e3e6a7d0fac", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "B.B. Queen", 
+            "score": "62", 
+            "sort-name": "B.B. Queen"
+        }, 
+        {
+            "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115", 
+                "name": "France", 
+                "sort-name": "France"
+            }, 
+            "country": "FR", 
+            "id": "ea57c459-a6dd-40ea-b489-03b7a912be13", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Sister Queen", 
+            "score": "62", 
+            "sort-name": "Sister Queen", 
+            "type": "Group"
+        }, 
+        {
+            "id": "b9de990e-2ece-42dd-827c-30c4ca4a99a4", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen V", 
+            "score": "62", 
+            "sort-name": "Queen V"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Queen Elisabeth", 
+                    "primary": null, 
+                    "sort-name": "Queen Elisabeth", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "disambiguation": "British band with Julian Cope", 
+            "id": "1e067199-f4cd-477b-9a87-7170e7ed4cf7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Queen Elizabeth", 
+            "score": "62", 
+            "sort-name": "Queen Elizabeth", 
+            "type": "Group"
+        }, 
+        {
+            "id": "f45984aa-f1ca-41d8-898a-af07340ae244", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Pearly Queen", 
+            "score": "62", 
+            "sort-name": "Pearly Queen", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "funk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rhythm and blues"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "latin"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "latin funk"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "disambiguation": "German duo Ina M\u00fcller & Edda Schnittgard", 
+            "id": "fd31549e-6a5f-4ff8-94fa-5a68638952fc", 
+            "life-span": {
+                "begin": "1994", 
+                "end": "2005", 
+                "ended": true
+            }, 
+            "name": "Queen Bee", 
+            "score": "62", 
+            "sort-name": "Queen Bee", 
+            "type": "Group"
+        }
+    ], 
+    "count": 213, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "aliases": [
+        {
+            "begin-date": null, 
+            "end-date": null, 
+            "locale": null, 
+            "name": "Queen", 
+            "primary": null, 
+            "sort-name": "Queen", 
+            "type": null
+        }
+    ], 
+    "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c", 
+        "name": "Japan", 
+        "sort-name": "Japan"
+    }, 
+    "country": "JP", 
+    "disambiguation": "\u677f\u91ce\u53cb\u7f8e", 
+    "gender": "female", 
+    "id": "420ca290-76c5-41af-999e-564d7c71f1a7", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "Queen", 
+    "score": "100", 
+    "sort-name": "Queen", 
+    "tags": [
+        {
+            "count": 1, 
+            "name": "related-akb48"
+        }, 
+        {
+            "count": 1, 
+            "name": "kamen rider w"
+        }
+    ], 
+    "type": "Character"
+}
+requesting http://musicbrainz.org/ws/2/artist/420ca290-76c5-41af-999e-564d7c71f1a7?fmt=json&inc=releases
+
+ONE RELEASE:

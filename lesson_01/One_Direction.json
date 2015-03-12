@@ -1,0 +1,364 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AOne+Direction&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "disambiguation": "English-Irish boy band formed in 2010", 
+            "id": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a", 
+            "life-span": {
+                "begin": "2010", 
+                "ended": null
+            }, 
+            "name": "One Direction", 
+            "score": "100", 
+            "sort-name": "One Direction", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "disambiguation": "San Francisco band", 
+            "id": "d3479e62-76ac-4aec-9f95-5b222d1e26b1", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Direction", 
+            "score": "69", 
+            "sort-name": "Direction", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7", 
+                "name": "Netherlands", 
+                "sort-name": "Netherlands"
+            }, 
+            "begin-area": {
+                "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0", 
+                "name": "Maastricht", 
+                "sort-name": "Maastricht"
+            }, 
+            "country": "NL", 
+            "id": "574236dc-aa46-4194-8200-6cb039e9ddbd", 
+            "life-span": {
+                "begin": "1989", 
+                "end": "2008", 
+                "ended": true
+            }, 
+            "name": "Right Direction", 
+            "score": "43", 
+            "sort-name": "Right Direction", 
+            "type": "Group"
+        }, 
+        {
+            "id": "cfd2b787-3656-44ce-9212-9e555b400af5", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "New Direction", 
+            "score": "43", 
+            "sort-name": "New Direction"
+        }, 
+        {
+            "id": "a32cc520-f2e6-4db2-8b61-c7baca599ef5", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Second Direction", 
+            "score": "43", 
+            "sort-name": "Second Direction"
+        }, 
+        {
+            "id": "2524b4ea-965f-4628-b940-acd0a9210047", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Lost Direction", 
+            "score": "43", 
+            "sort-name": "Lost Direction"
+        }, 
+        {
+            "id": "75fb2c35-4f3a-4145-b948-da871176f039", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Disco Direction", 
+            "score": "43", 
+            "sort-name": "Disco Direction"
+        }, 
+        {
+            "id": "9e9d35c3-ce54-4a48-b3ba-4eebdadc1ed8", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Audio Direction", 
+            "score": "43", 
+            "sort-name": "Audio Direction"
+        }, 
+        {
+            "id": "355fa6a9-dba2-43b0-bd0f-a9e6dc14c79f", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Direction X", 
+            "score": "43", 
+            "sort-name": "Direction X", 
+            "type": "Group"
+        }, 
+        {
+            "id": "7c4e4dc0-6a0e-4887-b374-0cc57749f563", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Direction Indicator", 
+            "score": "43", 
+            "sort-name": "Direction Indicator"
+        }, 
+        {
+            "id": "74c2fbfc-0ced-4f8a-9da6-7df628755757", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "No Direction", 
+            "score": "43", 
+            "sort-name": "No Direction", 
+            "type": "Group"
+        }, 
+        {
+            "id": "6130ddae-22dd-4930-ba0f-6d59f81d3637", 
+            "life-span": {
+                "begin": "2009-08", 
+                "ended": null
+            }, 
+            "name": "The Direction", 
+            "score": "43", 
+            "sort-name": "Direction, The", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "disambiguation": "USA punk band", 
+            "id": "d554887e-2e17-48f4-8610-624a944a9329", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "No Direction", 
+            "score": "43", 
+            "sort-name": "No Direction", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "usa"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "id": "ce85410c-10e4-4b2e-a878-72483fcf0884", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "7th Direction", 
+            "score": "43", 
+            "sort-name": "7th Direction"
+        }, 
+        {
+            "id": "47813cd0-be78-48ab-802f-1306fc180124", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Loose Direction", 
+            "score": "43", 
+            "sort-name": "Loose Direction"
+        }, 
+        {
+            "id": "3ccdd708-a6f2-4117-938d-4b23f045cbbb", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The New Transit Direction", 
+            "score": "34", 
+            "sort-name": "New Transit Direction, The"
+        }, 
+        {
+            "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+                "name": "Canada", 
+                "sort-name": "Canada"
+            }, 
+            "country": "CA", 
+            "id": "e0027978-441c-4877-b36f-0d2833181a42", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Beat Direction", 
+            "score": "34", 
+            "sort-name": "Beat Direction, The", 
+            "type": "Group"
+        }, 
+        {
+            "disambiguation": "rock", 
+            "id": "dffb4132-bfd1-4c23-8128-31c23d0b6fe9", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Found My Direction", 
+            "score": "34", 
+            "sort-name": "Found My Direction"
+        }, 
+        {
+            "id": "65cd1bef-0de3-439e-a2fc-a71c308c6359", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "\u9ad8\u67f3\u660c\u884c New Direction", 
+            "score": "33", 
+            "sort-name": "Masayuki Takayanagi New Direction"
+        }, 
+        {
+            "id": "982461f8-d0e0-44c0-9aa3-9ce9df28c71a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Moving in The Right Direction", 
+            "score": "31", 
+            "sort-name": "Moving in The Right Direction"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Masayuki \"Jojo\" Takayanagi* & New Direction For The Arts", 
+                    "primary": null, 
+                    "sort-name": "Masayuki \"Jojo\" Takayanagi* & New Direction For The Arts", 
+                    "type": null
+                }
+            ], 
+            "id": "8367123e-9a2b-4f1a-ad22-52dee85b144a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Masayuki \"Jojo\" Takayanagi & New Direction For The Arts", 
+            "score": "30", 
+            "sort-name": "Masayuki \"Jojo\" Takayanagi & New Direction For The Arts"
+        }, 
+        {
+            "disambiguation": "Church choir at Lourdes", 
+            "id": "c2485094-3ac9-4632-b8d8-aacae7df3b6f", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Chorale et assembl\u00e9e sous la direction de Jean Zune", 
+            "score": "30", 
+            "sort-name": "Chorale et assembl\u00e9e sous la direction de Jean Zune"
+        }, 
+        {
+            "id": "043456b7-0156-4a8d-9591-3018af75ced1", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Orchestre Symphonique National direction Wal-Berg", 
+            "score": "28", 
+            "sort-name": "Orchestre Symphonique National direction Wal-Berg"
+        }, 
+        {
+            "id": "542fbe3d-1bbf-4f17-b4fc-7bba54368e4b", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Jack Fetterman and the In Hi-Fi Music Direction", 
+            "score": "25", 
+            "sort-name": "Fetterman, Jack and the In Hi-Fi Music Direction"
+        }, 
+        {
+            "id": "6e5b801a-dc15-4b16-a5ca-555d08adb8d7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Orchestre sous la direction de Ren\u00e9-Pierre Chouteau", 
+            "score": "25", 
+            "sort-name": "Orchestre sous la direction de Ren\u00e9-Pierre Chouteau", 
+            "type": "Group"
+        }
+    ], 
+    "count": 1417, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98", 
+        "name": "United States", 
+        "sort-name": "United States"
+    }, 
+    "country": "US", 
+    "disambiguation": "San Francisco band", 
+    "id": "d3479e62-76ac-4aec-9f95-5b222d1e26b1", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "Direction", 
+    "score": "69", 
+    "sort-name": "Direction", 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/d3479e62-76ac-4aec-9f95-5b222d1e26b1?fmt=json&inc=releases
+
+ONE RELEASE:
+{
+  "barcode": "881034552525", 
+  "country": "US", 
+  "date": "2010-10-19", 
+  "disambiguation": "", 
+  "id": "09394d29-4854-48cc-b93e-77385bb0a03e", 
+  "packaging": null, 
+  "quality": "normal", 
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "", 
+        "id": "489ce91b-6658-3307-9877-795b68554c98", 
+        "iso_3166_1_codes": [
+          "US"
+        ], 
+        "iso_3166_2_codes": [], 
+        "iso_3166_3_codes": [], 
+        "name": "United States", 
+        "sort-name": "United States"
+      }, 
+      "date": "2010-10-19"
+    }
+  ], 
+  "status": "Official", 
+  "text-representation": {
+    "language": "eng", 
+    "script": "Latn"
+  }, 
+  "title": "Blue Room in San Francisco"
+}
+
+ALL TITLES:
+Blue Room in San Francisco
+25

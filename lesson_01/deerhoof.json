@@ -1,0 +1,1671 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ADeerhoof&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "83f22bb6-4631-443c-bace-9fae8540362a", 
+                "name": "San Francisco", 
+                "sort-name": "San Francisco"
+            }, 
+            "country": "US", 
+            "id": "11eabe0c-2638-4808-92f9-1dbd9c453429", 
+            "life-span": {
+                "begin": "1994-03", 
+                "ended": null
+            }, 
+            "name": "Deerhoof", 
+            "score": "100", 
+            "sort-name": "Deerhoof", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "indie rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "noise pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }
+            ], 
+            "type": "Group"
+        }
+    ], 
+    "count": 1, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ADeerhoof&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "83f22bb6-4631-443c-bace-9fae8540362a", 
+                "name": "San Francisco", 
+                "sort-name": "San Francisco"
+            }, 
+            "country": "US", 
+            "id": "11eabe0c-2638-4808-92f9-1dbd9c453429", 
+            "life-span": {
+                "begin": "1994-03", 
+                "ended": null
+            }, 
+            "name": "Deerhoof", 
+            "score": "100", 
+            "sort-name": "Deerhoof", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "indie rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "noise pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }
+            ], 
+            "type": "Group"
+        }
+    ], 
+    "count": 1, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ANirvana&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Nirvana US", 
+                    "primary": null, 
+                    "sort-name": "Nirvana US", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "a640b45c-c173-49b1-8030-973603e895b5", 
+                "name": "Aberdeen", 
+                "sort-name": "Aberdeen"
+            }, 
+            "country": "US", 
+            "disambiguation": "90s US grunge band", 
+            "id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da", 
+            "life-span": {
+                "begin": "1988-01", 
+                "end": "1994-04-05", 
+                "ended": true
+            }, 
+            "name": "Nirvana", 
+            "score": "100", 
+            "sort-name": "Nirvana", 
+            "tags": [
+                {
+                    "count": 2, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "legendary"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "90"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "seattle"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "northwest"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "alternative"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock and indie"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "am\u00e9ricain"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "usa"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "american"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "united states"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "kurt cobain"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "90s"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "nirvana"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "band"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 11, 
+                    "name": "grunge"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "begin-area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+                "name": "London", 
+                "sort-name": "London"
+            }, 
+            "country": "GB", 
+            "disambiguation": "60s band from the UK", 
+            "id": "9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6", 
+            "life-span": {
+                "begin": "1967", 
+                "ended": null
+            }, 
+            "name": "Nirvana", 
+            "score": "100", 
+            "sort-name": "Nirvana", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "orchestral"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "british"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "power pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "soft rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "symphonic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "english"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616", 
+                "name": "Finland", 
+                "sort-name": "Finland"
+            }, 
+            "country": "FI", 
+            "disambiguation": "Early 1980's Finnish punk band", 
+            "id": "85af0709-95db-4fbc-801a-120e9f4766d0", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Nirvana", 
+            "score": "100", 
+            "sort-name": "Nirvana", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "finland"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "id": "b305320e-c158-43f4-b5be-4450e2f99a32", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "El Nirvana", 
+            "score": "62", 
+            "sort-name": "Nirvana, El"
+        }, 
+        {
+            "id": "329c04ae-3b73-4ca3-996f-75608ab1befb", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Nirvana Singh", 
+            "score": "62", 
+            "sort-name": "Singh, Nirvana", 
+            "type": "Person"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Nirvana", 
+                    "primary": null, 
+                    "sort-name": "Nirvana", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Prophet 2002", 
+                    "primary": null, 
+                    "sort-name": "Prophet 2002", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb", 
+                "name": "Sweden", 
+                "sort-name": "Sweden"
+            }, 
+            "country": "SE", 
+            "disambiguation": "Swedish death metal band", 
+            "id": "f2dfdff9-3862-4be0-bf85-9c833fa3059e", 
+            "life-span": {
+                "begin": "1988", 
+                "ended": null
+            }, 
+            "name": "Nirvana 2002", 
+            "score": "62", 
+            "sort-name": "Nirvana 2002", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "id": "c3a64a25-251b-4d03-afba-1471440245b8", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Approaching Nirvana", 
+            "score": "62", 
+            "sort-name": "Approaching Nirvana", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "female", 
+            "id": "206419e0-3a7a-49ce-8437-4e757767d02b", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Nirvana Savoury", 
+            "score": "62", 
+            "sort-name": "Savoury, Nirvana", 
+            "type": "Person"
+        }, 
+        {
+            "id": "86f9ae24-ba2a-4d55-9275-0b89b85f6e3a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Weed Nirvana", 
+            "score": "62", 
+            "sort-name": "Weed Nirvana"
+        }, 
+        {
+            "id": "e1388435-f80d-434a-9980-f1c9f5aa9b90", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Nirvana Sitar & String Group", 
+            "score": "43", 
+            "sort-name": "Nirvana Sitar & String Group"
+        }
+    ], 
+    "count": 10, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+        "name": "United Kingdom", 
+        "sort-name": "United Kingdom"
+    }, 
+    "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+        "name": "London", 
+        "sort-name": "London"
+    }, 
+    "country": "GB", 
+    "disambiguation": "60s band from the UK", 
+    "id": "9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6", 
+    "life-span": {
+        "begin": "1967", 
+        "ended": null
+    }, 
+    "name": "Nirvana", 
+    "score": "100", 
+    "sort-name": "Nirvana", 
+    "tags": [
+        {
+            "count": 1, 
+            "name": "rock"
+        }, 
+        {
+            "count": 1, 
+            "name": "pop"
+        }, 
+        {
+            "count": 1, 
+            "name": "progressive rock"
+        }, 
+        {
+            "count": 1, 
+            "name": "orchestral"
+        }, 
+        {
+            "count": 1, 
+            "name": "british"
+        }, 
+        {
+            "count": 1, 
+            "name": "power pop"
+        }, 
+        {
+            "count": 1, 
+            "name": "psychedelic rock"
+        }, 
+        {
+            "count": 1, 
+            "name": "soft rock"
+        }, 
+        {
+            "count": 1, 
+            "name": "symphonic rock"
+        }, 
+        {
+            "count": 1, 
+            "name": "english"
+        }
+    ], 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6?fmt=json&inc=releases
+
+ONE RELEASE:
+{
+  "barcode": null, 
+  "country": "GB", 
+  "date": "1969", 
+  "disambiguation": "", 
+  "id": "0b44cb36-550a-491d-bfd9-8751271f9de7", 
+  "packaging": null, 
+  "quality": "normal", 
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "", 
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+        "iso_3166_1_codes": [
+          "GB"
+        ], 
+        "iso_3166_2_codes": [], 
+        "iso_3166_3_codes": [], 
+        "name": "United Kingdom", 
+        "sort-name": "United Kingdom"
+      }, 
+      "date": "1969"
+    }
+  ], 
+  "status": "Official", 
+  "text-representation": {
+    "language": "eng", 
+    "script": "Latn"
+  }, 
+  "title": "To Markos III"
+}
+
+ALL TITLES:
+To Markos III
+Travelling on a Cloud
+Songs Of Love And Praise
+Songs of Love and Praise
+Songs of Love and Praise
+Secret Theatre
+The Story of Simon Simopath
+Me And My Friend
+All of Us
+The Story of Simon Simopath
+To Markos III
+Chemistry
+Local Anaesthetic
+Orange & Blue
+Pentecost Hotel
+Black Flower
+All of Us
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ADeerhoof&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "83f22bb6-4631-443c-bace-9fae8540362a", 
+                "name": "San Francisco", 
+                "sort-name": "San Francisco"
+            }, 
+            "country": "US", 
+            "id": "11eabe0c-2638-4808-92f9-1dbd9c453429", 
+            "life-span": {
+                "begin": "1994-03", 
+                "ended": null
+            }, 
+            "name": "Deerhoof", 
+            "score": "100", 
+            "sort-name": "Deerhoof", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "indie rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "noise pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }
+            ], 
+            "type": "Group"
+        }
+    ], 
+    "count": 1, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ATosca&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "tosca", 
+                    "primary": null, 
+                    "sort-name": "tosca", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Toska", 
+                    "primary": null, 
+                    "sort-name": "Toska", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446", 
+                "name": "Austria", 
+                "sort-name": "Austria"
+            }, 
+            "begin-area": {
+                "id": "afff1a94-a98b-4322-8874-3148139ab6da", 
+                "name": "Wien", 
+                "sort-name": "Wien"
+            }, 
+            "country": "AT", 
+            "disambiguation": "downtempo electro, Richard Dorfmeister & Rupert Huber", 
+            "id": "3231d12a-c42d-4977-b2a4-a6e4d87978e1", 
+            "life-span": {
+                "begin": "1994", 
+                "ended": null
+            }, 
+            "name": "Tosca", 
+            "score": "100", 
+            "sort-name": "Tosca", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "chillout"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "vienna"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "austrian"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "downtempo"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "dance and electronica"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Tiziana Tosca Donati", 
+                    "primary": null, 
+                    "sort-name": "Donati, Tiziana Tosca", 
+                    "type": "Legal name"
+                }
+            ], 
+            "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+                "name": "Italy", 
+                "sort-name": "Italy"
+            }, 
+            "country": "IT", 
+            "disambiguation": "Italian pop singer", 
+            "gender": "female", 
+            "id": "7441591e-750c-484e-ae17-68427fdce7b7", 
+            "life-span": {
+                "begin": "1967-08-29", 
+                "ended": null
+            }, 
+            "name": "Tosca", 
+            "score": "100", 
+            "sort-name": "Tosca", 
+            "type": "Person"
+        }, 
+        {
+            "id": "7f9c369a-5ab0-4881-b591-b67f9d6443a2", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Tosca Niterink", 
+            "score": "62", 
+            "sort-name": "Niterink, Tosca", 
+            "type": "Person"
+        }, 
+        {
+            "id": "dca760c7-4381-4622-b1e1-f56dfe542511", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Mosca Tosca", 
+            "score": "62", 
+            "sort-name": "Mosca Tosca"
+        }, 
+        {
+            "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+                "name": "Italy", 
+                "sort-name": "Italy"
+            }, 
+            "country": "IT", 
+            "gender": "female", 
+            "id": "6e2c7741-2379-438b-bc35-9fd716cdcc3e", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Eleonora Tosca", 
+            "score": "62", 
+            "sort-name": "Tosca, Eleonora", 
+            "type": "Person"
+        }, 
+        {
+            "id": "a9fd6574-2a5d-4b2d-8346-5db12c34de3f", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "La Tosca", 
+            "score": "62", 
+            "sort-name": "Tosca, La"
+        }, 
+        {
+            "id": "1e077764-f8bf-4c57-93d0-1e06d927927e", 
+            "life-span": {
+                "begin": "1997", 
+                "ended": null
+            }, 
+            "name": "Tosca Tango Orchestra", 
+            "score": "50", 
+            "sort-name": "Tosca Tango Orchestra", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "nuevo tango"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "id": "d62227b5-248f-4b50-847d-ca14ff185276", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Ron & Tosca", 
+            "score": "50", 
+            "sort-name": "Ron & Tosca"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "The She-Wolves", 
+                    "primary": null, 
+                    "sort-name": "The She-Wolves", 
+                    "type": "Search hint"
+                }
+            ], 
+            "id": "e49bee5b-5f86-46d1-9337-56654a5baa8e", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Tosca String Quartet", 
+            "score": "50", 
+            "sort-name": "Tosca String Quartet", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "id": "473af199-6a1d-4f90-b81a-fa7281eed7c5", 
+            "life-span": {
+                "begin": "2006", 
+                "ended": null
+            }, 
+            "name": "Bacio Di Tosca", 
+            "score": "50", 
+            "sort-name": "Tosca, Bacio Di", 
+            "type": "Group"
+        }
+    ], 
+    "count": 10, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "aliases": [
+        {
+            "begin-date": null, 
+            "end-date": null, 
+            "locale": null, 
+            "name": "Tiziana Tosca Donati", 
+            "primary": null, 
+            "sort-name": "Donati, Tiziana Tosca", 
+            "type": "Legal name"
+        }
+    ], 
+    "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+        "name": "Italy", 
+        "sort-name": "Italy"
+    }, 
+    "country": "IT", 
+    "disambiguation": "Italian pop singer", 
+    "gender": "female", 
+    "id": "7441591e-750c-484e-ae17-68427fdce7b7", 
+    "life-span": {
+        "begin": "1967-08-29", 
+        "ended": null
+    }, 
+    "name": "Tosca", 
+    "score": "100", 
+    "sort-name": "Tosca", 
+    "type": "Person"
+}
+requesting http://musicbrainz.org/ws/2/artist/7441591e-750c-484e-ae17-68427fdce7b7?fmt=json&inc=releases
+
+ONE RELEASE:
+{
+  "barcode": null, 
+  "disambiguation": "", 
+  "id": "7268bc01-ccfc-4941-8965-5e3a06d225e2", 
+  "packaging": null, 
+  "quality": "normal", 
+  "status": "Official", 
+  "text-representation": {
+    "language": "ita", 
+    "script": "Latn"
+  }, 
+  "title": "Incontri e passaggi"
+}
+
+ALL TITLES:
+Incontri e passaggi
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ATos&fmt=json
+{
+    "artists": [
+        {
+            "id": "fb06c895-3118-4605-a794-00e21cd9db1e", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "TOS", 
+            "score": "100", 
+            "sort-name": "TOS", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+                "name": "Canada", 
+                "sort-name": "Canada"
+            }, 
+            "country": "CA", 
+            "id": "6f242351-cabc-4920-a82a-a0fc89c9af81", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "T.O.S.", 
+            "score": "100", 
+            "sort-name": "T.O.S.", 
+            "type": "Group"
+        }, 
+        {
+            "id": "57f61513-0ccb-4b18-9e02-2e2f8db19db8", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "DJ Tos", 
+            "score": "62", 
+            "sort-name": "DJ Tos"
+        }, 
+        {
+            "id": "acffc5e5-e9b7-4b5c-bda3-66b4fd652484", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Tos Nieuwenhuizen", 
+            "score": "62", 
+            "sort-name": "Nieuwenhuizen, Tos", 
+            "type": "Person"
+        }, 
+        {
+            "id": "0e68b5a8-19e7-4c89-8cb5-cb403459059a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Been To's", 
+            "score": "62", 
+            "sort-name": "Been To's", 
+            "type": "Group"
+        }, 
+        {
+            "id": "0b9adc43-f9f7-4a13-94fc-fbd564f6832c", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Gem Tos", 
+            "score": "62", 
+            "sort-name": "Gem Tos"
+        }, 
+        {
+            "id": "7305a56d-9241-42dd-b501-5bde8f4d48c0", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Tubular Tos", 
+            "score": "62", 
+            "sort-name": "Tubular Tos"
+        }, 
+        {
+            "id": "2dcb4ae3-7248-4524-aaf1-2319d9b9d2b5", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "TWB - TOS Worship Band", 
+            "score": "43", 
+            "sort-name": "TWB - TOS Worship Band"
+        }
+    ], 
+    "count": 8, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+        "name": "Canada", 
+        "sort-name": "Canada"
+    }, 
+    "country": "CA", 
+    "id": "6f242351-cabc-4920-a82a-a0fc89c9af81", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "T.O.S.", 
+    "score": "100", 
+    "sort-name": "T.O.S.", 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/6f242351-cabc-4920-a82a-a0fc89c9af81?fmt=json&inc=releases
+
+ONE RELEASE:
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AAtomTM&fmt=json
+{
+    "artists": [], 
+    "count": 0, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ABurnt+Friedman&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Bernd Friedmann", 
+                    "primary": null, 
+                    "sort-name": "Bernd Friedmann", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Burnt Friedmann", 
+                    "primary": null, 
+                    "sort-name": "Burnt Friedmann", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "gender": "male", 
+            "id": "2ddb1370-2a5c-48fb-957e-21e2f64cdea3", 
+            "life-span": {
+                "begin": "1965", 
+                "ended": null
+            }, 
+            "name": "Burnt Friedman", 
+            "score": "100", 
+            "sort-name": "Friedman, Burnt", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "dance and electronica"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Friedmann & Liebezeit", 
+                    "primary": null, 
+                    "sort-name": "Friedmann & Liebezeit", 
+                    "type": null
+                }
+            ], 
+            "id": "7fa1a3de-9a23-43ff-9e86-73cb15ad8a56", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Burnt Friedman & Jaki Liebezeit", 
+            "score": "77", 
+            "sort-name": "Friedman, Burnt & Liebezeit, Jaki", 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Burnt Freedman & the Nu Dub Players", 
+                    "primary": null, 
+                    "sort-name": "Burnt Freedman & the Nu Dub Players", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Burnt Friedman and the New Dub Players", 
+                    "primary": null, 
+                    "sort-name": "Burnt Friedman and the New Dub Players", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Burnt Friedman and the Nu Dub Players", 
+                    "primary": null, 
+                    "sort-name": "Burnt Friedman and the Nu Dub Players", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Burnt Friedmann & The Nu Dub Players", 
+                    "primary": null, 
+                    "sort-name": "Burnt Friedmann & The Nu Dub Players", 
+                    "type": null
+                }
+            ], 
+            "id": "e8755cfa-0015-4d5d-bbb0-5bf8bb3dbea7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Burnt Friedman & The Nu Dub Players", 
+            "score": "70", 
+            "sort-name": "Friedman, Burnt & Nu Dub Players, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "1d7bee9d-c747-453f-ac86-51a28aaccc0c", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Friedman", 
+            "score": "55", 
+            "sort-name": "Friedman"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30d5\u30ea\u30fc\u30c9\u30de\u30f3", 
+                    "primary": null, 
+                    "sort-name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30d5\u30ea\u30fc\u30c9\u30de\u30f3", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "e9e06426-7b08-4b6d-b9a2-c9893aad04db", 
+                "name": "Laurel", 
+                "sort-name": "Laurel"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "e43bc702-b387-44eb-865b-3e4f93461c44", 
+            "ipis": [
+                "00136940958"
+            ], 
+            "life-span": {
+                "begin": "1962-12-08", 
+                "ended": null
+            }, 
+            "name": "Marty Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Marty", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "enka"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "shred metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "gagaku"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "thrash metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "instrumental rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "neo-classical metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "j-pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "american"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "801f60cd-cd1a-4b95-8146-90b60f6052f0", 
+            "life-span": {
+                "begin": "1935-05-04", 
+                "ended": null
+            }, 
+            "name": "Don Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Don", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "jazz"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "american"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "8d22894d-5105-44d4-923d-0c2f3f515da6", 
+            "life-span": {
+                "begin": "1944-10-31", 
+                "ended": null
+            }, 
+            "name": "Kinky Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Kinky", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "politician"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8", 
+                "name": "New Jersey", 
+                "sort-name": "New Jersey"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "a25a63b9-600f-4bd9-9722-c60a00e21afe", 
+            "life-span": {
+                "begin": "1955-05-23", 
+                "ended": null
+            }, 
+            "name": "Dean Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Dean", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "5053c91f-b1c1-4a52-816e-b556542ca00a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Alan Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Alan", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "female", 
+            "id": "498c84a9-b9da-40fd-8391-0d3e79ad26a9", 
+            "life-span": {
+                "begin": "1951-02-23", 
+                "end": "2011-01-09", 
+                "ended": true
+            }, 
+            "name": "Debbie Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Debbie", 
+            "type": "Person"
+        }, 
+        {
+            "id": "f78e44b8-931d-4161-a33f-6163c066f3fc", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Leo Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Leo", 
+            "type": "Person"
+        }, 
+        {
+            "gender": "female", 
+            "id": "e7fc9b70-d2b3-4eaf-ba6f-ab04620de9d1", 
+            "life-span": {
+                "begin": "1960-03-19", 
+                "ended": null
+            }, 
+            "name": "Maria Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Maria", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "female", 
+            "id": "dd61f85c-b76c-406f-99c9-ebf2beb4b8ac", 
+            "ipis": [
+                "00010900735"
+            ], 
+            "life-span": {
+                "begin": "1944-07-06", 
+                "ended": null
+            }, 
+            "name": "Ruthann Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Ruthann", 
+            "type": "Person"
+        }, 
+        {
+            "id": "d3dba9e9-e65c-441b-86d3-6e8ac7d89d77", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Richard Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Richard", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "production music"
+                }
+            ], 
+            "type": "Person"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Byjoe Friedman", 
+                    "primary": null, 
+                    "sort-name": "Byjoe Friedman", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "d2581828-3008-4604-aefc-bfe2dd33b6b7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Joe Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Joe", 
+            "type": "Person"
+        }, 
+        {
+            "id": "166f1b57-47bf-4622-aa91-a80c06ced034", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Michael Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Michael", 
+            "type": "Person"
+        }, 
+        {
+            "id": "b4d8b20a-237c-4f2f-a2a5-aa1711247e3b", 
+            "life-span": {
+                "begin": "1898-12-25", 
+                "end": "1981-11-21", 
+                "ended": true
+            }, 
+            "name": "Irving Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Irving", 
+            "type": "Person"
+        }, 
+        {
+            "id": "845a7b12-4a61-4fbd-84d1-695152529442", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Rich Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Rich", 
+            "type": "Person"
+        }, 
+        {
+            "id": "1929eb4b-ba21-436d-aa93-80b57234c9c2", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Andy Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Andy", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "gender": "male", 
+            "id": "778e115d-6b07-4e9f-85d2-d5cc4619baac", 
+            "life-span": {
+                "begin": "1930-12-11", 
+                "end": "1994-05-11", 
+                "ended": true
+            }, 
+            "name": "Leonard Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Leonard", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "e331bfdf-b908-429c-a79b-710cf9c06abb", 
+                "name": "Boston", 
+                "sort-name": "Boston"
+            }, 
+            "gender": "female", 
+            "id": "4076c202-9ec3-4a08-a565-03ee18b5a2c9", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Mia Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Mia", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "05f68b4c-10f3-49b5-b28c-260a1b707043", 
+                "name": "Massachusetts", 
+                "sort-name": "Massachusetts"
+            }, 
+            "country": "US", 
+            "gender": "male", 
+            "id": "d3350649-7a03-4e74-8157-acfd8955bec2", 
+            "life-span": {
+                "begin": "1974", 
+                "ended": null
+            }, 
+            "name": "Jefferson Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Jefferson", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+                "name": "Canada", 
+                "sort-name": "Canada"
+            }, 
+            "country": "CA", 
+            "end-area": {
+                "id": "c9ac1239-e832-41bc-9930-e252a1fd1105", 
+                "name": "Berlin", 
+                "sort-name": "Berlin"
+            }, 
+            "gender": "male", 
+            "id": "0d2feb94-c6cd-45bb-a61d-c8fe22cba55b", 
+            "life-span": {
+                "begin": "1935-09-25", 
+                "end": "1995-03-16", 
+                "ended": true
+            }, 
+            "name": "Perry Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Perry", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+                "name": "Brooklyn", 
+                "sort-name": "Brooklyn"
+            }, 
+            "gender": "male", 
+            "id": "cd2a8c6d-6c11-414b-89da-3bead475d86a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Benny Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, Benny", 
+            "type": "Person"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Dave Friedman", 
+                    "primary": null, 
+                    "sort-name": "Friedman, Dave", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "David Anthony Friedman", 
+                    "primary": null, 
+                    "sort-name": "Friedman, David Anthony", 
+                    "type": "Legal name"
+                }
+            ], 
+            "area": {
+                "id": "c9ac1239-e832-41bc-9930-e252a1fd1105", 
+                "name": "Berlin", 
+                "sort-name": "Berlin"
+            }, 
+            "begin-area": {
+                "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+                "name": "New York", 
+                "sort-name": "New York"
+            }, 
+            "disambiguation": "US jazz percussionist, mainly vibraphone and marimba", 
+            "gender": "male", 
+            "id": "7e71a915-7903-4b43-af51-b47d69e1e96b", 
+            "life-span": {
+                "begin": "1944-03-10", 
+                "ended": null
+            }, 
+            "name": "David Friedman", 
+            "score": "35", 
+            "sort-name": "Friedman, David", 
+            "type": "Person"
+        }
+    ], 
+    "count": 118, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "aliases": [
+        {
+            "begin-date": null, 
+            "end-date": null, 
+            "locale": null, 
+            "name": "Friedmann & Liebezeit", 
+            "primary": null, 
+            "sort-name": "Friedmann & Liebezeit", 
+            "type": null
+        }
+    ], 
+    "id": "7fa1a3de-9a23-43ff-9e86-73cb15ad8a56", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "Burnt Friedman & Jaki Liebezeit", 
+    "score": "77", 
+    "sort-name": "Friedman, Burnt & Liebezeit, Jaki", 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/7fa1a3de-9a23-43ff-9e86-73cb15ad8a56?fmt=json&inc=releases
+
+ONE RELEASE:
+{
+  "barcode": "881390256921", 
+  "country": "DE", 
+  "date": "2006-01-27", 
+  "disambiguation": "", 
+  "id": "02dcd0d2-9f81-4a1e-b3ea-94fc6b310ede", 
+  "packaging": null, 
+  "quality": "normal", 
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "", 
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+        "iso_3166_1_codes": [
+          "DE"
+        ], 
+        "iso_3166_2_codes": [], 
+        "iso_3166_3_codes": [], 
+        "name": "Germany", 
+        "sort-name": "Germany"
+      }, 
+      "date": "2006-01-27"
+    }
+  ], 
+  "status": "Official", 
+  "text-representation": {
+    "language": "eng", 
+    "script": "Latn"
+  }, 
+  "title": "Secret Rhythms 2"
+}
+
+ALL TITLES:
+Secret Rhythms 2
+Out in the Sticks
+Secret Rhythms 4
+Secret Rhythms 3
+Secret Rhythms
+5 7
+Secret Rhythms 3
+Unlimited Edition
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AMonolake&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "id": "cedf92fe-eba1-45e2-ba16-b1b6af5169b8", 
+            "life-span": {
+                "begin": "1995", 
+                "ended": null
+            }, 
+            "name": "Monolake", 
+            "score": "100", 
+            "sort-name": "Monolake", 
+            "type": "Group"
+        }
+    ], 
+    "count": 1, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AMonolake&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "id": "cedf92fe-eba1-45e2-ba16-b1b6af5169b8", 
+            "life-span": {
+                "begin": "1995", 
+                "ended": null
+            }, 
+            "name": "Monolake", 
+            "score": "100", 
+            "sort-name": "Monolake", 
+            "type": "Group"
+        }
+    ], 
+    "count": 1, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}

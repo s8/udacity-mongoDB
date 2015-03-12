@@ -1,0 +1,619 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3ABeatles&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "ko", 
+                    "name": "\ub354 \ube44\ud2c0\uc988", 
+                    "primary": true, 
+                    "sort-name": "\ub354 \ube44\ud2c0\uc988", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "ja", 
+                    "name": "\u30b6\u30fb\u30d3\u30fc\u30c8\u30eb\u30ba", 
+                    "primary": true, 
+                    "sort-name": "\u30d3\u30fc\u30c8\u30eb\u30ba (\u30b6)", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Beatles", 
+                    "primary": null, 
+                    "sort-name": "Beatles", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Beetles", 
+                    "primary": null, 
+                    "sort-name": "Beetles", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "fab four", 
+                    "primary": null, 
+                    "sort-name": "fab four", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "es", 
+                    "name": "Los Beatles", 
+                    "primary": true, 
+                    "sort-name": "Los Beatles", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "ru", 
+                    "name": "\u0411\u0438\u0442\u043b\u0437", 
+                    "primary": true, 
+                    "sort-name": "\u0411\u0438\u0442\u043b\u0437", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "zh_Hans", 
+                    "name": "\u62ab\u5934\u58eb", 
+                    "primary": true, 
+                    "sort-name": "\u62ab\u5934\u58eb", 
+                    "type": null
+                }, 
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": "zh_Hant", 
+                    "name": "\u62ab\u982d\u56db", 
+                    "primary": true, 
+                    "sort-name": "\u62ab\u982d\u56db", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "begin-area": {
+                "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee", 
+                "name": "Liverpool", 
+                "sort-name": "Liverpool"
+            }, 
+            "country": "GB", 
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d", 
+            "life-span": {
+                "begin": "1957-03", 
+                "end": "1970-04-10", 
+                "ended": true
+            }, 
+            "name": "The Beatles", 
+            "score": "100", 
+            "sort-name": "Beatles, The", 
+            "tags": [
+                {
+                    "count": 2, 
+                    "name": "uk"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "english"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "overrated"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "parlophone"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "60s"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop-rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop/rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock & roll"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classical pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "instrumental pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk-rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "orchestral"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "merseybeat"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock roll"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "adult alternative pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "tribute albums"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "british psychedelia"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "orchestral pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "singer songwriter"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "indie rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "british invasion"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop-metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic pop and rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "britpop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "the-beatles"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "1"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "united kingdom"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "male vocalists"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "experimental"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock and roll"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "liverpool"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "one beatles"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "british"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "bbc"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "a filk artist"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "disambiguation": "The Beatles tribute band", 
+            "id": "ad60d963-44f1-4b41-b785-8284edcaaffe", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Counterfeit Beatles", 
+            "score": "100", 
+            "sort-name": "Counterfeit Beatles", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e", 
+                "name": "Australia", 
+                "sort-name": "Australia"
+            }, 
+            "country": "AU", 
+            "disambiguation": "The Beatles tribute band", 
+            "id": "7cac6d47-ef4e-4347-8835-63ed3f2e74a7", 
+            "life-span": {
+                "begin": "2011", 
+                "ended": null
+            }, 
+            "name": "Beatles Back2Back", 
+            "score": "100", 
+            "sort-name": "Beatles Back2Back", 
+            "type": "Group"
+        }, 
+        {
+            "id": "3133aeb8-9982-4e11-a8ff-5477996a80bf", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Beatles Chillout", 
+            "score": "100", 
+            "sort-name": "Beatles Chillout"
+        }, 
+        {
+            "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c", 
+                "name": "Japan", 
+                "sort-name": "Japan"
+            }, 
+            "begin-area": {
+                "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f", 
+                "name": "Tokyo", 
+                "sort-name": "Tokyo"
+            }, 
+            "country": "JP", 
+            "disambiguation": "Japanese", 
+            "id": "bc569a61-dd62-4758-86c6-e99dcb1fdda6", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Tokyo Beatles", 
+            "score": "100", 
+            "sort-name": "Tokyo Beatles"
+        }, 
+        {
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+                "name": "United Kingdom", 
+                "sort-name": "United Kingdom"
+            }, 
+            "country": "GB", 
+            "id": "dc146c82-7709-41ee-8322-0d4c9fea0378", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Fab Beatles", 
+            "score": "100", 
+            "sort-name": "Fab Beatles", 
+            "type": "Group"
+        }, 
+        {
+            "id": "f540dcbe-4ae8-45c7-817b-372241202276", 
+            "life-span": {
+                "begin": "1998", 
+                "ended": null
+            }, 
+            "name": "Not The Beatles", 
+            "score": "80", 
+            "sort-name": "Not The Beatles", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee", 
+                "name": "Liverpool", 
+                "sort-name": "Liverpool"
+            }, 
+            "id": "ec996b5f-89c8-4dd6-8063-1bd8df438a00", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Backbeat Beatles", 
+            "score": "80", 
+            "sort-name": "Backbeat Beatles, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "75a2dff3-b370-4caa-9447-d9756d28243b", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Suck My Beatles", 
+            "score": "80", 
+            "sort-name": "Suck My Beatles"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Tape-Beatles", 
+                    "primary": null, 
+                    "sort-name": "Tape-Beatles", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "begin-area": {
+                "id": "3fc3b364-665e-4875-a9ff-3699cd716152", 
+                "name": "Iowa City", 
+                "sort-name": "Iowa City"
+            }, 
+            "country": "US", 
+            "id": "5e685f9e-83bb-423c-acfa-487e34f15ffd", 
+            "life-span": {
+                "begin": "1986-12", 
+                "ended": null
+            }, 
+            "name": "The Tape-beatles", 
+            "score": "80", 
+            "sort-name": "Tape-beatles, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "333b16c0-c1fc-4fa0-ab58-367adf2c8e2e", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Savage Young Beatles", 
+            "score": "80", 
+            "sort-name": "Savage Young Beatles, The", 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Beatles Revival Band", 
+                    "primary": null, 
+                    "sort-name": "Beatles Revival Band", 
+                    "type": null
+                }
+            ], 
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+                "name": "Germany", 
+                "sort-name": "Germany"
+            }, 
+            "country": "DE", 
+            "disambiguation": "german cover band", 
+            "id": "0f697bc6-6df7-41c9-b550-39981e520d70", 
+            "life-span": {
+                "begin": "1976", 
+                "ended": null
+            }, 
+            "name": "The Beatles Revival Band", 
+            "score": "80", 
+            "sort-name": "Beatles Revival Band, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "e67ffb2a-0d5e-472d-9f3b-02d2ed7adc9a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Moog Beatles", 
+            "score": "80", 
+            "sort-name": "Moog Beatles, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "4c3d0136-9235-4c50-b136-be49d17163df", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Black Beatles", 
+            "score": "80", 
+            "sort-name": "Black Beatles, The"
+        }, 
+        {
+            "id": "7383113a-2b44-4fd1-a2b1-277ca68803b7", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Better Beatles", 
+            "score": "80", 
+            "sort-name": "Better Beatles, The", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "51d34c28-61bf-3d21-849f-7492672a9d44", 
+                "name": "Czech Republic", 
+                "sort-name": "Czech Republic"
+            }, 
+            "country": "CZ", 
+            "disambiguation": "Czech 'The Beatles' tribute band", 
+            "id": "5153cd90-37c6-4fa0-8da6-dbf5513b4a44", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The Beatles Revival", 
+            "score": "80", 
+            "sort-name": "Beatles Revival, The", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee", 
+                "name": "Liverpool", 
+                "sort-name": "Liverpool"
+            }, 
+            "begin-area": {
+                "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee", 
+                "name": "Liverpool", 
+                "sort-name": "Liverpool"
+            }, 
+            "disambiguation": "Beatles Cover Band", 
+            "id": "31f6812d-12ab-406f-a13d-ad54976e49c6", 
+            "life-span": {
+                "begin": "1989", 
+                "ended": null
+            }, 
+            "name": "The Cavern Beatles", 
+            "score": "80", 
+            "sort-name": "Beatles Cover Band", 
+            "type": "Group"
+        }, 
+        {
+            "disambiguation": "Beatles Tribute Band", 
+            "id": "abdd68e9-cd78-453e-a0d6-315dc73cf0e4", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Liverpool Lads a Beatles Tribute", 
+            "score": "70", 
+            "sort-name": "Liverpool Lads", 
+            "type": "Group"
+        }, 
+        {
+            "disambiguation": "Beatles Tribute Band", 
+            "id": "d4617e66-94f7-41c2-83ad-86c6e446f3a9", 
+            "life-span": {
+                "begin": "1975", 
+                "ended": null
+            }, 
+            "name": "Rain: A Tribute to the Beatles", 
+            "score": "60", 
+            "sort-name": "Rain", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98", 
+                "name": "United States", 
+                "sort-name": "United States"
+            }, 
+            "country": "US", 
+            "id": "3b7bcc69-0c5d-47b2-9d3d-3f1aa8ffe4a1", 
+            "life-span": {
+                "begin": "2013", 
+                "ended": null
+            }, 
+            "name": "All You Need Is Love: A Beatles Experience", 
+            "score": "50", 
+            "sort-name": "All You Need Is Love: A Beatles Experience", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "51d34c28-61bf-3d21-849f-7492672a9d44", 
+                "name": "Czech Republic", 
+                "sort-name": "Czech Republic"
+            }, 
+            "country": "CZ", 
+            "id": "bcfaf9b8-d1f6-4a23-8ef9-ac85fdf95ec5", 
+            "life-span": {
+                "begin": "1991", 
+                "ended": null
+            }, 
+            "name": "Jolly Joker and the Plastic Beatles of the Universe", 
+            "score": "50", 
+            "sort-name": "Joker, Jolly and the Plastic Beatles of the Universe", 
+            "type": "Group"
+        }
+    ], 
+    "count": 21, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+        "name": "United Kingdom", 
+        "sort-name": "United Kingdom"
+    }, 
+    "country": "GB", 
+    "disambiguation": "The Beatles tribute band", 
+    "id": "ad60d963-44f1-4b41-b785-8284edcaaffe", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "Counterfeit Beatles", 
+    "score": "100", 
+    "sort-name": "Counterfeit Beatles", 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/ad60d963-44f1-4b41-b785-8284edcaaffe?fmt=json&inc=releases
+
+ONE RELEASE:

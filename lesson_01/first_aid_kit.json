@@ -1,0 +1,395 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3AFirst+Aid+Kit&fmt=json
+{
+    "artists": [
+        {
+            "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb", 
+                "name": "Sweden", 
+                "sort-name": "Sweden"
+            }, 
+            "country": "SE", 
+            "disambiguation": "Swedish folk band", 
+            "id": "373faa02-74d7-4b1d-9b47-7574ad510f8d", 
+            "life-span": {
+                "begin": "2007", 
+                "ended": null
+            }, 
+            "name": "First Aid Kit", 
+            "score": "100", 
+            "sort-name": "First Aid Kit", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "remember"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "471c46a7-afc5-31c4-923c-d0444f5053a4", 
+                "name": "Spain", 
+                "sort-name": "Spain"
+            }, 
+            "country": "ES", 
+            "disambiguation": "Spanish indie electronic band", 
+            "id": "e4466078-fb0f-4899-98a2-7c7dfeb14714", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "First Aid Kit", 
+            "score": "100", 
+            "sort-name": "First Aid Kit", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef", 
+                "name": "Russia", 
+                "sort-name": "Russia"
+            }, 
+            "country": "RU", 
+            "disambiguation": "Russian metal", 
+            "id": "5bb6d8b6-dcd8-46e0-84dc-5a0d927c8475", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "First Aid", 
+            "score": "48", 
+            "sort-name": "First Aid", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3", 
+                "name": "South Korea", 
+                "sort-name": "South Korea"
+            }, 
+            "country": "KR", 
+            "disambiguation": "Korean person", 
+            "gender": "male", 
+            "id": "3266ea60-5690-464a-ae67-27c8681a9723", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "FIRST AID", 
+            "score": "48", 
+            "sort-name": "FIRST AID", 
+            "type": "Person"
+        }, 
+        {
+            "area": {
+                "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b", 
+                "name": "Estonia", 
+                "sort-name": "Estonia"
+            }, 
+            "country": "EE", 
+            "disambiguation": "Estonian band", 
+            "id": "93d871dc-38f4-442e-8292-db7d670794ea", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "First Aid", 
+            "score": "48", 
+            "sort-name": "First Aid", 
+            "type": "Group"
+        }, 
+        {
+            "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446", 
+                "name": "Austria", 
+                "sort-name": "Austria"
+            }, 
+            "begin-area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446", 
+                "name": "Austria", 
+                "sort-name": "Austria"
+            }, 
+            "country": "AT", 
+            "disambiguation": "Austrian Rockband", 
+            "id": "268d84a6-620a-4a87-b467-d2236f9264b6", 
+            "life-span": {
+                "begin": "2000", 
+                "ended": null
+            }, 
+            "name": "First Aid", 
+            "score": "48", 
+            "sort-name": "First Aid", 
+            "type": "Group"
+        }, 
+        {
+            "id": "c3eee377-bfd1-49fa-906c-7562db86a45d", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "The First Aid", 
+            "score": "38", 
+            "sort-name": "First Aid, The", 
+            "type": "Group"
+        }, 
+        {
+            "id": "612e0dcb-2b47-4feb-ad34-6259433de61d", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "First Aid 4 Souls", 
+            "score": "38", 
+            "sort-name": "First Aid 4 Souls"
+        }, 
+        {
+            "id": "fbf39528-f7a1-491d-a5d4-94df61f88ad9", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "DJ First Aid", 
+            "score": "38", 
+            "sort-name": "DJ First Aid"
+        }, 
+        {
+            "disambiguation": "Germany", 
+            "id": "97b182ff-5f86-451c-b2b4-27840b7d512a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "First Aid", 
+            "score": "35", 
+            "sort-name": "First Aid"
+        }, 
+        {
+            "id": "ae609ba9-5df4-4ef4-aa4a-18805397ef24", 
+            "life-span": {
+                "begin": "1990", 
+                "ended": null
+            }, 
+            "name": "A\u00edd", 
+            "score": "31", 
+            "sort-name": "A\u00edd", 
+            "type": "Person"
+        }, 
+        {
+            "id": "ed6459f1-257f-433a-85c1-970b2fbbc0af", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "K.I.T.", 
+            "score": "28", 
+            "sort-name": "K.I.T."
+        }, 
+        {
+            "id": "2b1895a9-6906-4700-b0ed-98561cb58474", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Kit", 
+            "score": "28", 
+            "sort-name": "Kit", 
+            "type": "Person"
+        }, 
+        {
+            "disambiguation": "Kit Fegradoe - UK ambient/electronic artist", 
+            "id": "b199b386-e0b1-4137-9faa-c9bc09b1eda4", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Kit", 
+            "score": "28", 
+            "sort-name": "Kit"
+        }, 
+        {
+            "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115", 
+                "name": "France", 
+                "sort-name": "France"
+            }, 
+            "country": "FR", 
+            "disambiguation": "Paris electro-pop trio", 
+            "id": "2d1caf76-ccd5-4cbc-a1b0-c36186c81c15", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "KIT", 
+            "score": "28", 
+            "sort-name": "KIT", 
+            "type": "Group"
+        }, 
+        {
+            "disambiguation": "George Chen, Vice Cooler", 
+            "id": "ede72177-00cd-4ddf-b04b-1b7c754fed79", 
+            "life-span": {
+                "begin": "2003", 
+                "ended": null
+            }, 
+            "name": "KIT", 
+            "score": "26", 
+            "sort-name": "KIT", 
+            "type": "Group"
+        }, 
+        {
+            "aliases": [
+                {
+                    "begin-date": null, 
+                    "end-date": null, 
+                    "locale": null, 
+                    "name": "Ferry Aid (Zeebrugge)", 
+                    "primary": null, 
+                    "sort-name": "Ferry Aid (Zeebrugge)", 
+                    "type": null
+                }
+            ], 
+            "id": "590233d0-5ab2-4a67-8f43-a647c2100bdc", 
+            "life-span": {
+                "begin": "1987", 
+                "end": "1987", 
+                "ended": true
+            }, 
+            "name": "Ferry Aid", 
+            "score": "20", 
+            "sort-name": "Ferry Aid", 
+            "type": "Group"
+        }, 
+        {
+            "id": "0ecaa896-58fa-4dca-b53d-8da7bc5f59c5", 
+            "life-span": {
+                "begin": "1984", 
+                "ended": null
+            }, 
+            "name": "Band Aid", 
+            "score": "19", 
+            "sort-name": "Band Aid", 
+            "tags": [
+                {
+                    "count": 1, 
+                    "name": "british"
+                }
+            ], 
+            "type": "Group"
+        }, 
+        {
+            "gender": "male", 
+            "id": "d8e4fd9f-0a1b-4dbe-9ea6-8352d885fd84", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Peter Aid", 
+            "score": "19", 
+            "sort-name": "Aid, Peter", 
+            "type": "Person"
+        }, 
+        {
+            "id": "d74731bd-79aa-4452-876d-b25d5c78b0b2", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Quench Aid", 
+            "score": "19", 
+            "sort-name": "Quench Aid"
+        }, 
+        {
+            "id": "d31ee795-51b3-4213-81ff-ea521f988d28", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Hearin Aid", 
+            "score": "19", 
+            "sort-name": "Hearin Aid"
+        }, 
+        {
+            "id": "375093c9-b20a-4955-80d1-e84fbacf4a6b", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Kool Aid", 
+            "score": "19", 
+            "sort-name": "Kool Aid"
+        }, 
+        {
+            "id": "d2559845-4898-458e-aacf-6392ef92dc19", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Mint-Aid", 
+            "score": "19", 
+            "sort-name": "Mint-Aid"
+        }, 
+        {
+            "id": "7fe6ce13-78e4-4dc0-9820-aa2f4acd844a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Punk Aid", 
+            "score": "19", 
+            "sort-name": "Punk Aid"
+        }, 
+        {
+            "id": "fae0d35f-ce2a-42e1-a0e5-b315fbb5ff0a", 
+            "life-span": {
+                "ended": null
+            }, 
+            "name": "Whale Aid", 
+            "score": "19", 
+            "sort-name": "Whale Aid", 
+            "type": "Group"
+        }
+    ], 
+    "count": 366, 
+    "created": "2015-03-11T19:34:47.455Z", 
+    "offset": 0
+}
+
+ARTIST:
+{
+    "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4", 
+        "name": "Spain", 
+        "sort-name": "Spain"
+    }, 
+    "country": "ES", 
+    "disambiguation": "Spanish indie electronic band", 
+    "id": "e4466078-fb0f-4899-98a2-7c7dfeb14714", 
+    "life-span": {
+        "ended": null
+    }, 
+    "name": "First Aid Kit", 
+    "score": "100", 
+    "sort-name": "First Aid Kit", 
+    "type": "Group"
+}
+requesting http://musicbrainz.org/ws/2/artist/e4466078-fb0f-4899-98a2-7c7dfeb14714?fmt=json&inc=releases
+
+ONE RELEASE:
+{
+  "barcode": null, 
+  "country": "ES", 
+  "date": "2008-04-26", 
+  "disambiguation": "", 
+  "id": "4c145e01-50da-4279-80ee-b7280008aafc", 
+  "packaging": null, 
+  "quality": "normal", 
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "", 
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4", 
+        "iso_3166_1_codes": [
+          "ES"
+        ], 
+        "iso_3166_2_codes": [], 
+        "iso_3166_3_codes": [], 
+        "name": "Spain", 
+        "sort-name": "Spain"
+      }, 
+      "date": "2008-04-26"
+    }
+  ], 
+  "status": "Official", 
+  "text-representation": {
+    "language": "eng", 
+    "script": "Latn"
+  }, 
+  "title": "Plaits"
+}
+
+ALL TITLES:
+Plaits
+F1rst
+Plaits
