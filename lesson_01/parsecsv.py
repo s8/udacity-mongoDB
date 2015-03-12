@@ -23,20 +23,30 @@ DATAFILE = "745090.csv"
 def parse_file(datafile):
     name = ""
     data = []
-    with open(datafile,'rt', encoding = 'ascii') as f:
-        # name = f.readline().decode().split(",")[1][1:-1]
-        name = f.readline().split(",")[1][1:-1]
-        fields = f.readline().split(",")
-        print (name)
-        print (fields)
+    # my python 3 solution
+    # with open(datafile,'rt', encoding = 'ascii') as f:
+    #     name = f.readline().split(",")[1][1:-1]
+    #     fields = f.readline().split(",")
+    #     energy_reader = csv.reader(f)
+    #     for row in energy_reader:
+    #         data.append(row)
 
-        energy_reader = csv.reader(f)
+    # udacity python 2 solution
+    # with open(datafile,'rb') as f:
+    #     r = csv.reader(f)
+    #     name = r.next()[1]
+    #     header = r.next()
+    #     data = [row for row in r]
 
-        for row in energy_reader:
-            # print (row)
-            # print ('----------')
-            data.append(row)
+    # udacity's solution adjusted for python 3
+    # can the __next__ ugly syntax be corrected?
+    with open(datafile, 'rt', encoding='ascii') as f:
+        r = csv.reader(f)
+        name = r.__next__()[1]
+        header = r.__next__()
+        data = [row for row in r]
 
+    # print ([row for row in data])
     # Do not change the line below
     return (name, data)
 
