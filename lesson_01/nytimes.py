@@ -40,14 +40,25 @@ def article_overview(kind, period):
     urls =[]
     # YOUR CODE HERE
 
-    with open('popular-viewed-1.json', 'r',encoding='ascii') as f:
-        data = json.loads(f.read())
-        for d in data:
-            titles.append({d["section"] : d["title"]})
-            for m in d["media"]:
-                for meta in m["media-metadata"]:
-                    if "Standard Thumbnail" in meta["format"]:
-                        urls.append(meta["url"])
+    # with open('popular-viewed-1.json', 'r',encoding='ascii') as f:
+    #     data = json.loads(f.read())
+    #     for d in data:
+    #         titles.append({d["section"] : d["title"]})
+    #         for m in d["media"]:
+    #             for meta in m["media-metadata"]:
+    #                 if "Standard Thumbnail" in meta["format"]:
+    #                     urls.append(meta["url"])
+
+    # UDACITY solution
+    for article in data:
+        section = article["section"]
+        title = article["title"]
+        titles.append({section: title})
+        if "media" in article:
+            for m in article["media"]:
+                for mm in m["media-metadata"]:
+                    if mm["format"] == "Standard Thumbnail":
+                        urls.append(mm["url"])
 
     return (titles, urls)
 
